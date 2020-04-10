@@ -7,6 +7,3 @@ Si Beta agrega un archivo Alfa y Gama puede verlo.
 Supongo que tenemos que comunicarnos asi, desde aca. Creo que esta es la mejor forma de comunicarnos desde git <-Sbaglia
 Si agrego un archivo los integrantes lo ven<-Giovagnoni
 Tienen discord o algo como para comunicarnos mejor?<-Giovagnoni
-
-Fijense si pueden unirse a este canal que cree https://discord.gg/kpWDPB 
-Sino les dejo mi ID (phaser - #8256)
